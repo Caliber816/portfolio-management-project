@@ -248,4 +248,6 @@ You will also need to provide the code access to Google Drive to run it in colla
 | Sai Dharanidhar Ram | 24AI10004 | GRU Recurrent Neural Network |
 | Aaron Jason Baptist | 24AI10015 | Portfolio Optimisation |
 
+Youtube-link:https://www.youtube.com/watch?v=XcGcxgh3QWA
+
 > *Project submitted as part of the Deep Learning course, IIT Kharagpur — Semester 4*
